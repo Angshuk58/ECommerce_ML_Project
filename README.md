@@ -1,6 +1,8 @@
 # ECommerce_ML_Project
 Predicting whether the shipped products were delivered on time, using different Machine Learning Algorithms.
 ![Image Alt](https://i.workana.com/wp-content/uploads/2019/11/ecommerce-workana-glosario.jpg)
+
+
 Objective of the Project: Predicting whether the shipped products were delivered on time, using different Machine Learning Algorithms.
 
 Context of the Project: An international e-commerce company based wants to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company sells electronic products. Here our moto is to predict if the order was delivered on time.
